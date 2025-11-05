@@ -2,6 +2,7 @@
 public class Student {
 	public String name;
 	public int grade;
+	public int hello;
 
 	public String getGradeStatus() {
 		if (grade >= 50)
